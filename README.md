@@ -41,3 +41,6 @@ https://blog.csdn.net/Nicky_lyu/article/details/53225399
 
 # github下载单个文件夹、文件
 https://www.imtqy.com/how-to-download-dir-from-github.html
+
+# 谷歌浏览器账号无法同步，并提示错误： request canceled
+https://segmentfault.com/a/1190000021808018
