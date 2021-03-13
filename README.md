@@ -44,3 +44,6 @@ https://www.imtqy.com/how-to-download-dir-from-github.html
 
 # 谷歌浏览器账号无法同步，并提示错误： request canceled
 https://segmentfault.com/a/1190000021808018
+
+# ubuntu18.04的有线网络消失了
+https://blog.csdn.net/w504007124/article/details/105219718
