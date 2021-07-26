@@ -48,6 +48,9 @@ https://segmentfault.com/a/1190000021808018
 # ubuntu18.04的有线网络消失了
 https://blog.csdn.net/w504007124/article/details/105219718
 
+# Ubuntu 18.04 拨号上网 PPPoE
+https://blog.csdn.net/qq_38649880/article/details/102651760
+
 # 由于文件过大无法解压
 zip -F original.zip --out fixed.zip再解压即可
 
